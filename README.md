@@ -44,3 +44,20 @@ Configuración de Telegram
 
 Guarda este código como iot_dht20_mqtt_telegram.py y ejecútalo desde la terminal
 
+Comandos disponibles desde Telegram
+Comando	
+/buzzer_on	->Activa el buzzer de la CrowPi
+
+/buzzer_off	->Desactiva el buzzer
+
+/status	->Muestra el estado actual del sistema
+
+/help	->Lista los comandos disponibles
+
+#Retos Finales
+
+Reto 1: Agregar un LED que se encienda cuando el buzzer esté activo.
+
+Reto 2: Permitir cambiar el umbral de temperatura desde un comando de Telegram.
+
+
